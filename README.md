@@ -1,5 +1,5 @@
 # p and g global innovation
-Customers' reaction using face expression and customer segmentation based on age &amp; gender
+Detecting consumer product feedback using customers' reaction by using face expression as well doing customer segmentation based on age &amp; gender
 
 The whole project is devided into 3 parts.
 1) Face detection & Facial Landmark detection. (It will be used for next 2 steps)
